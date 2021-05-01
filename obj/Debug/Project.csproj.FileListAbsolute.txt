@@ -1,0 +1,15 @@
+D:\Новая папка\Project\Project\bin\Debug\Project.exe.config
+D:\Новая папка\Project\Project\bin\Debug\Project.exe
+D:\Новая папка\Project\Project\bin\Debug\Project.pdb
+D:\Новая папка\Project\Project\obj\Debug\Project.Form1.resources
+D:\Новая папка\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Новая папка\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Новая папка\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Новая папка\Project\Project\obj\Debug\Project.exe
+D:\Новая папка\Project\Project\obj\Debug\Project.pdb
+D:\Новая папка\Project\Project\bin\Debug\Newtonsoft.Json.dll
+D:\Новая папка\Project\Project\bin\Debug\Newtonsoft.Json.xml
+D:\Новая папка\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Новая папка\Project\Project\obj\Debug\Project.Characterinfo.resources
+D:\Новая папка\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Новая папка\Project\Project\obj\Debug\Project.Form3.resources
